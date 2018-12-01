@@ -23,3 +23,5 @@ view_camera[0] = camera_create_view(0, 0, GAME_WIDTH, GAME_HEIGHT, 0, -1, -1, -1
 
 //spawn in some sample tiles
 create_tile(4, 4);
+
+//test getneighbors

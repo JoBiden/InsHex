@@ -1,4 +1,4 @@
-///evenq_to_cube()
+///evenq_to_cube(point)
 
 cube_x = col;
 cube_z = row - (col + (col & 1)) / 2;

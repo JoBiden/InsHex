@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "49bc343d-b778-4d95-a2cc-f0641359befd",
+            "Value": {
+                "id": "2fc8af3a-0123-4e75-8f4c-af6ba203445c",
+                "resourcePath": "scripts\\cube_to_evenq\\cube_to_evenq.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5d33c582-6b18-4690-b3b0-c1911dd1d7a2",
             "Value": {
                 "id": "6214f76c-7615-4058-879c-c001bcde3030",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "c7231717-eb94-4186-86f8-0387edc393f4",
+            "Value": {
+                "id": "58bc58fd-3aa6-4e54-a42d-081097d29e74",
+                "resourcePath": "scripts\\get_neighbors\\get_neighbors.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "e99b9584-0497-4c30-895d-64ea1e2e3eae",
@@ -277,7 +293,9 @@
         "355d52fe-24ad-4a9f-b0b4-17c6fee97576",
         "abfdd3e0-ffc5-4017-ac22-a0eff688865d",
         "39391107-f7e9-43a5-9d4e-3ebc752c6ece",
-        "dfd6af61-2008-4531-8618-125af4e94c03"
+        "dfd6af61-2008-4531-8618-125af4e94c03",
+        "49bc343d-b778-4d95-a2cc-f0641359befd",
+        "c7231717-eb94-4186-86f8-0387edc393f4"
     ],
     "tutorial": ""
 }
